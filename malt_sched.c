@@ -1,20 +1,4 @@
-/* This is the only file you will be editing.
- * - malt_sched.c (Malt Scheduler Library Code)
- * - Copyright of Starter Code: Prof. Kevin Andrea, George Mason University. All Rights Reserved
- * - Copyright of Student Code: You!  
- * - Restrictions on Student Code: Do not post your code on any public site (eg. Github).
- * -- Feel free to post your code on a PRIVATE Github and give interviewers access to it.
- * -- You are liable for the protection of your code from others.
- * - Date: Aug 2026
- */
 
-/* CS367 Project 1, Fall Semester, 2026
- * Fill in your Name, GNumber, and Section Numbers in the following comment fields
- * Name:  Farhan Sikandar
- * GNumber:  G#01446524
- * Section Number:    CS367-001             (Replace the __ with your lecture section number)
- * Recitation Number: CS367-304             (Replace the __ with your recitation section number)
- */
 
 /* malt CPU Scheduling Library */
  
